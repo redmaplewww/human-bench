@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧬 carbon-bench
+# 🧬 human-bench
 
 **把自己当成大模型，认真跑一次不太严谨的分**
 
@@ -33,10 +33,10 @@ tok/s（手速）· pp（阅读速度）· TTFT（首字时延）· 八维能力
 ## 安装
 
 ```bash
-git clone https://github.com/redmaplewww/carbon-bench.git
-# ZCode skill 目录（任选其一，保留 carbon-bench 目录层级）
-mv carbon-bench ~/.agents/skills/          # 推荐，跨工具
-mv carbon-bench ~/.zcode/skills/           # 仅 ZCode，优先级更高
+git clone https://github.com/redmaplewww/human-bench.git
+# ZCode skill 目录（任选其一，保留 human-bench 目录层级）
+mv human-bench ~/.agents/skills/          # 推荐，跨工具
+mv human-bench ~/.zcode/skills/           # 仅 ZCode，优先级更高
 ```
 
 新建会话后说「**给我跑个分**」「**测测我相当于什么模型**」即可触发。

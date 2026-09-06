@@ -1,5 +1,5 @@
 ---
-name: carbon-bench
+name: human-bench
 description: >-
   娱乐向「人类跑分 / 碳基模型评测」。当用户说 给我跑个分、测测我相当于什么模型、
   评测我的水平、我的 tok/s / 打字速度 / 阅读速度 / 首字时延、人类基准测试、
